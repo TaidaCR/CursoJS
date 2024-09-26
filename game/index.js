@@ -1,0 +1,1 @@
+let display = new DOMDisplay(document.body, [])
