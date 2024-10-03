@@ -4,3 +4,21 @@
     position: relative;
     overflow: hidden;
 }
+
+.background{
+    background: rgb(108, 143, 38);
+    table-layout: fixed;
+    border-spacing: 0;
+}
+
+.background{
+    padding: 0;
+}
+
+.wall{
+    background: rgb(111, 43, 157);
+}
+
+.lava{
+    background: rgb(200, 73, 44);
+}
